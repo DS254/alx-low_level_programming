@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - print sizes of various computer types
  * Return 0 (success)
